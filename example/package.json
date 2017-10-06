@@ -7,15 +7,15 @@
 		"test": "jest"
 	},
 	"dependencies": {
-		"react": "16.0.0-alpha.6",
-		"react-native": "0.44.0",
-		"react-native-calendar": "git+ssh://git@github.com/christopherdro/react-native-calendar"
+		"react": "16.0.0",
+		"react-native": "0.49.1",
+		"react-native-calendar": "git+ssh://git@github.com/pmachowski/react-native-calendar#react-16"
 	},
 	"devDependencies": {
 		"babel-jest": "20.0.1",
 		"babel-preset-react-native": "1.9.2",
 		"jest": "20.0.1",
-		"react-test-renderer": "16.0.0-alpha.6"
+		"react-test-renderer": "16.0.0"
 	},
 	"jest": {
 		"preset": "react-native"
